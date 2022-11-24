@@ -1,6 +1,6 @@
 # Elixir Backend
 
-The frontend's [here](https://github.com/st3v3nmw/elixir-frontend).
+The frontend's [here](https://github.com/tonythornton435/elixir-frontend).
 
 ## Setup
 
